@@ -1,57 +1,81 @@
-AtliQ Business Insights 360 🌊
-🌟 Project Overview
-AtliQ Hardware, a global computer hardware company, is implementing data analytics for the first time to compete with data-driven rivals. This project builds a Power BI Dashboard that provides insights into multiple business areas:
+# 🌊 AtliQ Business Insights 360
 
-Finance
-Sales
-Marketing
-Supply Chain
-Executive Overview
-🚀 Live Dashboard: https://app.powerbi.com/reportEmbed?reportId=c528d10c-65fe-4f17-838e-a1ac0f898c78&appId=20964e5d-1eff-4027-b52a-4d39030c8a80&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+## 🌟 Project Overview
+**AtliQ Hardware** is a global computer hardware company stepping into the world of data analytics to compete with modern, data-driven businesses. This project delivers a comprehensive Power BI dashboard that provides interactive insights across multiple business domains.
 
+The objective is to empower AtliQ's leadership and teams with clear, actionable insights using a centralized and dynamic dashboard.
 
+---
 
-📌 Key Features
-✅ Interactive dashboards with dynamic filters and drill-downs
-✅ Business insights for decision-making
-✅ Implemented DAX measures for advanced calculations
-✅ Data imported, cleaned, and modeled in Power BI
-✅ Optimized performance using star schema
+## 🧭 Dashboard Coverage
 
-🛠 Tools & Technologies Used
-Power BI 🚀 (Data modeling, visualization, DAX calculations)
-SQL 🛡 (Data extraction & transformation)
-Excel 📈 (Data preprocessing & validation)
-DAX 🫠 
- calculations & measures)
-Git & GitHub 🖥 (Version control)
-📸 Overall Impact
-1️⃣ Home View
+- **Executive Overview**
+- **Finance**
+- **Sales**
+- **Marketing**
+- **Supply Chain**
 
-![Screenshot 2025-05-04 125154](https://github.com/user-attachments/assets/f3f9e08e-3cda-4dac-bb28-26f9336b4c71)
+🔗 **[Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=c528d10c-65fe-4f17-838e-a1ac0f898c78&appId=20964e5d-1eff-4027-b52a-4d39030c8a80&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)**
 
-2️⃣ Finance View
+---
 
+## 📌 Key Features
 
-![Screenshot 2025-05-04 125228](https://github.com/user-attachments/assets/3edf746b-c29d-4ce4-b77a-a19c97f74799)
+✅ Interactive dashboards with dynamic filters and drill-downs  
+✅ In-depth business insights for strategic decision-making  
+✅ Custom DAX measures for KPIs and performance tracking  
+✅ Clean, structured data modeling with star schema  
+✅ Performance optimized Power BI reports  
 
+---
 
-3️⃣ Sales View
+## 🛠 Tools & Technologies Used
 
-![Screenshot 2025-05-04 125253](https://github.com/user-attachments/assets/dcbdea82-c08a-4187-926f-45d3d13c092e)
+- **Power BI** – Data modeling, DAX calculations, visualizations  
+- **SQL** – Data extraction & transformation  
+- **Excel** – Preprocessing & validation  
+- **DAX** – Custom measures and KPIs  
+- **Git & GitHub** – Version control and collaboration  
 
+---
 
-4️⃣ Marketing View
+## 📸 Dashboard Views & Impact
 
-![Screenshot 2025-05-04 125313](https://github.com/user-attachments/assets/187a1191-59a5-4ec4-8ddd-5add934c60a3)
+### 1️⃣ Home View
+Provides a high-level summary and navigation hub for the dashboard.
+![Home View](https://github.com/user-attachments/assets/f3f9e08e-3cda-4dac-bb28-26f9336b4c71)
 
-5️⃣ Supply Chain View
+---
 
+### 2️⃣ Finance View
+Insights into revenue, profitability, discounts, and cost structure.
+![Finance View](https://github.com/user-attachments/assets/3edf746b-c29d-4ce4-b77a-a19c97f74799)
 
-![Screenshot 2025-05-04 125343](https://github.com/user-attachments/assets/d0baaac9-e284-4924-9570-6edebd2ca4c7)
+---
 
+### 3️⃣ Sales View
+Tracks sales performance across channels, customers, and time periods.
+![Sales View](https://github.com/user-attachments/assets/dcbdea82-c08a-4187-926f-45d3d13c092e)
 
-6️⃣ Executive View
+---
 
+### 4️⃣ Marketing View
+Analyzes marketing spend, return on investment, and brand-wise impact.
+![Marketing View](https://github.com/user-attachments/assets/187a1191-59a5-4ec4-8ddd-5add934c60a3)
 
-![Screenshot 2025-05-04 125405](https://github.com/user-attachments/assets/6156a71f-1dcd-49ed-a48d-c0a336e8d29d)
+---
+
+### 5️⃣ Supply Chain View
+Monitors inventory levels, out-of-stock alerts, and forecasting trends.
+![Supply Chain View](https://github.com/user-attachments/assets/d0baaac9-e284-4924-9570-6edebd2ca4c7)
+
+---
+
+### 6️⃣ Executive View
+Summarizes all key business metrics for C-level decision-making.
+![Executive View](https://github.com/user-attachments/assets/6156a71f-1dcd-49ed-a48d-c0a336e8d29d)
+
+---
+
+## 📈 Outcome & Value
+This Power BI solution has enabled Atli
